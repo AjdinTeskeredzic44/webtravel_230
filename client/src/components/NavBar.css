@@ -1,0 +1,31 @@
+
+
+nav {
+    background-color: #333;
+    color: #6e1616;
+    padding: 1rem;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    color: #ff0000;
+    text-decoration: none;
+}
+
+button {
+    background: none;
+    border: none;
+    color: #ff0000;
+    cursor: pointer;
+}
